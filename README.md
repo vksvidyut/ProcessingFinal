@@ -1,6 +1,6 @@
 # ProcessingFinal
 // Program by Vid Suresh Neccid 00328694
-// Draw a gGuitar Store
+// Draw a Guitar Store
 // Due Date May 6, 2021
 // This work is my own in its entirety
 //** Instructions***************************************************************************************************************
